@@ -1,0 +1,8 @@
+[package]
+name = "rust_learn"
+version = "1.0.0"
+authors = [""]
+
+[[bin]]
+name = "hello_world"
+path = "src/hello_world/main.rs"
