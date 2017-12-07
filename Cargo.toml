@@ -19,5 +19,9 @@ path = "src/rectangle/main.rs"
 name = "enum"
 path = "src/enum/main.rs"
 
+[[bin]]
+name = "collections"
+path = "src/collections/main.rs"
+
 [dependencies]
 rand = "0.3.14"
