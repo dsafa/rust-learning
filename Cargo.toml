@@ -15,5 +15,9 @@ path = "src/guessing_game/main.rs"
 name = "rectangle"
 path = "src/rectangle/main.rs"
 
+[[bin]]
+name = "enum"
+path = "src/enum/main.rs"
+
 [dependencies]
 rand = "0.3.14"
